@@ -3,9 +3,9 @@
 A fast, responsive and accessible online store built with **Next.js (App Router)**, **React** and **Tailwind CSS**. Product data comes from the free [DummyJSON](https://dummyjson.com) API.
 
 **Live demo:** [haat-store-v461.vercel.app](https://haat-store-v461.vercel.app)
+
 **Source code:** [github.com/RIYAYADAV08/Haat-Store](https://github.com/RIYAYADAV08/Haat-Store)
 
-![Home page](./screenshots/home.png)
 
 ## Features
 
